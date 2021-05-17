@@ -1,3 +1,3 @@
-import BadWordObfuscator.Obfuscator as Obfuscator
+from BadWordObfuscator import Obfuscator
 
 Obfuscator.load_slurListDefault()

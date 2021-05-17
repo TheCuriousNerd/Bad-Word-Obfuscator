@@ -23,7 +23,7 @@ def isSlurWord(wordToCheck):
     isSlur = False
     for word in slurList:
         if wordToCheck == word:
-            print("Found Slur")
+            #print("Found Slur")
             isSlur = True
     if isSlur == True:
         return True
