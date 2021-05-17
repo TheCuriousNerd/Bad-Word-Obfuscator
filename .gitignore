@@ -1,0 +1,4 @@
+BadWordObfuscator.egg-info/
+dist/
+build/
+__pycache__/
