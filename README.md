@@ -1,0 +1,2 @@
+# Bad Word Obfuscator
+ 
